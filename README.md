@@ -5,7 +5,7 @@
 - 📫 How to reach me: @addyosmani on Twitter
 
 <a href="https://grantshatz.gumroad.com/l/github-stats-card-pro">
-  <img alt="GitHub Stats" src="https://167.233.135.161:8083/card?user=addyosmani">
+  <img alt="GitHub Stats" src="https://mug-prophet-evident-concern.trycloudflare.com/card?user=addyosmani">
 </a>
 
 <!--
